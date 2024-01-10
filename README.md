@@ -39,7 +39,7 @@
 ### 相關連結
 影片：https://youtu.be/PGfsZpYbAxE  
 調查表單：https://forms.gle/qzPEBbD43eimRNi8A  
-結果分析（試算表圖表）：https://bit.ly/即時反饋系統試算表  
+結果分析（試算表圖表）：https://bit.ly/及時反饋系統-新
 
 <!--
 **Yufang0/Yufang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
