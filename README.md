@@ -36,10 +36,10 @@
 大數據的特色是「資料量」、「多樣性」、「即時性」、「真實性」，此系統是我嘗試將大數據概念中的「數據自動化」與自己以前就很愛的「自動統計系統」（利用試算表的函式自製）結合，做出簡單的應用。現場利用google表單調查觀眾使用社群軟體的習慣，並運用先行設定好的函式、表格設計與圖表，當場呈現結果。  
 ![image](https://github.com/Yufang0/Yufang0/blob/main/%E5%9C%96%E7%89%872.jpg)
 
-### 
-影片：https://youtu.be/PGfsZpYbAxE
-調查表單：https://forms.gle/qzPEBbD43eimRNi8A
-結果分析（試算表圖表）：https://bit.ly/即時反饋系統試算表
+### 相關連結
+影片：https://youtu.be/PGfsZpYbAxE  
+調查表單：https://forms.gle/qzPEBbD43eimRNi8A  
+結果分析（試算表圖表）：https://bit.ly/即時反饋系統試算表  
 
 <!--
 **Yufang0/Yufang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
