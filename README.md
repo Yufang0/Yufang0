@@ -7,9 +7,10 @@
 
 ### 😎&nbsp;專長
 數理及邏輯分析相關事物  
-程式語言（python、java、R）  
-簡易的數據分析（例如表單、試算表、Prower BI等）  
-文書處理（Word、PowerPoint、excel）  
+程式語言-精通（python、java、R、SQL）
+程式語言-初級 (JS、HTML、CSS、C++)
+其他軟體（Prower BI、SPSS、KNIME）  
+文書處理（Word、PowerPoint、Excel）  
 &nbsp;
 
 ### 🎓&nbsp;經歷
