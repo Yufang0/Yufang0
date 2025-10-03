@@ -32,7 +32,7 @@
 &nbsp;
 &nbsp;
 
----
+# &nbsp;
 
 # 專題
 ## 我所操控的數據（高中畢業專題）
@@ -47,7 +47,7 @@
 ![image](https://github.com/Yufang0/Yufang0/blob/main/%E5%9C%96%E7%89%872.jpg)
 
 ### 相關連結
-* 影片：https://youtu.be/PGfsZpYbAxE  
+影片：https://youtu.be/PGfsZpYbAxE  
 調查表單：https://forms.gle/qzPEBbD43eimRNi8A  
 結果分析（試算表圖表）：https://bit.ly/及時反饋系統-新
 &nbsp;
