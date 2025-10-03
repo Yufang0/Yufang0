@@ -48,11 +48,11 @@
 影片：https://youtu.be/PGfsZpYbAxE  
 調查表單：https://forms.gle/qzPEBbD43eimRNi8A  
 結果分析（試算表圖表）：https://bit.ly/及時反饋系統-新
-&nbsp;
+&nbsp;&nbsp;
 
 ## 電力負載預測分析（大學畢業專題）
 loading ... ...
-&nbsp;
+&nbsp;&nbsp;
 
 ## Cox 迴歸校正估計法與機器學習演算法在距離測量誤差的乳癌資料之存活分析比較
 　　本研究旨在探討如何建構含有測量誤差的最佳生命週期預測模型，並提升存活分析模型的準確性與適用性。本研究使用Clinical Dataset，該數據集涵蓋電子病歷（EMR）數據，包括患者的行政與人口統計資訊、診斷結果、治療方式、實驗室檢測、住院記錄、腫瘤特徵等，提供豐富的臨床資料以進行存活分析。此研究將透過隨機森林、XGBoost、Cox模型等多種方式，建立存活時間預測模型，並進行變數篩選與測量誤差校正。研究過程將獨立使用隨機森林完成存活分析的變數篩選、建模預測。同時，透過XGBoost構建存活時間預測模型，並利用SHAP（SHapley Additive Explanations）進行特徵影響分析。此外，考慮到測量誤差對 Cox 迴歸模型的影響，本研究將結合SIMSELEX（Simulation Selection Extrapolation）估計法來修正誤差影響，提升 Cox 模型的參數估計穩健性。執行結果將透過 C-index、均方誤差（MSE） 等指標，評估上述三種方法的模型準確性與適用性，以建立一個能適用於臨床決策的生存分析建模程序。
