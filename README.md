@@ -32,6 +32,8 @@
 &nbsp;
 &nbsp;
 
+---
+
 # 專題
 ## 我所操控的數據（高中畢業專題）
 #### 運用網路購物的問卷調查與資料分析，以圖表的方式呈現均一學生與一般民眾的網路購物消費習慣比較。並進一步探討大數據如何存在於我們生活當中，解析數據從數字、文字變成高價值依據的過程。
@@ -45,13 +47,11 @@
 ![image](https://github.com/Yufang0/Yufang0/blob/main/%E5%9C%96%E7%89%872.jpg)
 
 ### 相關連結
-影片：https://youtu.be/PGfsZpYbAxE  
+> 影片：https://youtu.be/PGfsZpYbAxE  
 調查表單：https://forms.gle/qzPEBbD43eimRNi8A  
 結果分析（試算表圖表）：https://bit.ly/及時反饋系統-新
 &nbsp;
 &nbsp;
-
----
 
 ## 電力負載預測分析（大學畢業專題）
 loading ... ...
